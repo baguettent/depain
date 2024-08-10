@@ -1,0 +1,6 @@
+Base path: '/run/media/aydan/0fec60e0-baf4-462f-a0f0-ef36d1b88173/2022.3.41f1/Editor/Data', plugins path '/run/media/aydan/0fec60e0-baf4-462f-a0f0-ef36d1b88173/2022.3.41f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Unhandled exception: Protocol error - failed to read magic number. Error code 0x80000004 (Not connected). (transferred 0/4)
+
+Quitting shader compiler process
